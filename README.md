@@ -30,3 +30,5 @@ Java | | PowerShell
 ### Special thanks to:
 
 ![Banyan-Labs](https://banyanlabs.io/static/Logo-ba022e637f1be3fe28d39b0560ae901b.png)
+
+##### for providing with opportunities
