@@ -43,12 +43,12 @@ Pug || Docker
 
 ![GitHub Report Card](https://github-readme-stats.vercel.app/api?username=jmclain-banyan&show_icons=true&line_height=27&count_private=true&hide=stars,issues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
-> ### :smile_cat: **Keep Clam and `C0D3` on.** *Hack the Planet!* :earth_americas:
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmclain-banyan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10)
-
 [![Banyan-Labs](https://banyanlabs.io/wp-content/uploads/2021/11/BanyanLabs.png)](https://banyanlabs.io)
 
-### Special thanks to
+<!-- [![Banyan-Labs](https://banyanlabs.io/wp-content/uploads/2021/11/BanyanLabs.png)](https://banyanlabs.io) -->
 
+> :smile_cat: **Keep Clam and `C0D3` on** and, *Hack the Planet!* :earth_americas:
+
+Special thanks to
 [![Persevere](https://perseverenow.org/wp-content/themes/v1.0/library/images/persevere_logo.png)](https://perseverenow.org/)
