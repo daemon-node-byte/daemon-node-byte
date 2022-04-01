@@ -43,6 +43,7 @@ Pug || Docker
 
 ![GitHub Report Card](https://github-readme-stats.vercel.app/api?username=jmclain-banyan&count_private=true&show_icons=true&theme=dark&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmclain-banyan&theme=dark&langs_count=10&layout=compact)
+
 [![Banyan-Labs](https://banyanlabs.io/wp-content/uploads/2021/11/BanyanLabs.png)](https://banyanlabs.io)
 
 <!-- [![Banyan-Labs](https://banyanlabs.io/wp-content/uploads/2021/11/BanyanLabs.png)](https://banyanlabs.io) -->
