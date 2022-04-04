@@ -48,7 +48,7 @@ Pug || Docker
 
 <!-- [![Banyan-Labs](https://banyanlabs.io/wp-content/uploads/2021/11/BanyanLabs.png)](https://banyanlabs.io) -->
 
-> :smile_cat: **Keep Clam and `C0D3` on** and, *Hack the Planet!* :earth_americas:
+> :smile_cat: *Hack the Planet!* :earth_americas:
 
 Special thanks to
 [![Persevere](https://perseverenow.org/wp-content/themes/v1.0/library/images/persevere_logo.png)](https://perseverenow.org/)
