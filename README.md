@@ -1,8 +1,8 @@
 <img align='right' src='./octocat.png' height="340">
 
 <h1>🌎 Hello Universe!
-<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjmclain-banyan&countColor=%232ccce4&style=flat' height='25'>
-<img src='https://img.shields.io/github/followers/jmclain-banyan?label=Followers&style=social' height='25'>
+<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjmclain-banyan&countColor=%232ccce4&style=flat' height='20'>
+<img src='https://img.shields.io/github/followers/jmclain-banyan?label=Followers&style=social' height='20'>
 </h1>
 
 - 👋 My name is Josh.
