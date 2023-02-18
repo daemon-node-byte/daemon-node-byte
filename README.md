@@ -11,7 +11,7 @@
 - 👋 My name is Josh.
 - 💼 Software Developer @[Banyan Labs](https://banyanlabs.io/).
 - 🔭 Currently working on IoT. See public client projects [here](https://www.joshmclain.com/#projects).
-- 🌱 Always learning, currently Framer-motion and Spotify API.
+- 🌱 Always learning, currently Linode and Spotify API.
 - ❤️ I'm passionate for DevOps, Networking and TypeScript.
 - 🗨️ Ask me about collaborating on a new project.
 - 📫 How to reach me [info here](https://www.joshmclain.com/#contact).
@@ -20,41 +20,49 @@
 </div>
 
 ---
-<img align='right' src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=380&count=7&unique=true'>
+<img align='right' src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=380&count=7'>
 
 <div>
 
 <div align='center'>
 
-<h2>😸 Frequently used tech and tools</h2>
+<h2>😸 Some things I have experience with...</h2>
 
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="70" width="70" />
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="70" width="70" />
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="70" width="70" />
+
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/nextjs-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="70" width="70" />
 <img src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/framer-motion.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" height="70" width="70" />
+
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="70" width="70" />
+
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="70" width="70" />
 <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="70" width="70" />
+<img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/f353a5e6e5bad0a5ac5e4c577c4d18a4e0fcda93/src/drivers/webextension/images/icons/vercel.svg" height="70" width="70" />
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="70" width="70" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/insomnia.svg" height="70" width="70" />
+
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70" width="70" />
 <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/66582b8e-a291-4a1b-b89c-76628277a33b.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" height="70" width="70" />
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="70" width="70" />
-<img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" height="70" width="70" />
+<!-- <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" height="70" width="70" /> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" height="70" width="70" />
 
 </div>
 
