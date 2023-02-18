@@ -5,8 +5,8 @@
 
 <div>
 
-<img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='180'>
-<img align='right' src='./octocat.png' width='270'>
+<img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='170'>
+<img align='right' src='./octocat.png' width='260'>
 
 - 👋 My name is Josh.
 - 💼 Software Developer @[Banyan Labs](https://banyanlabs.io/).
@@ -34,11 +34,13 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="70" width="70" />
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="70" width="70" />
 
+
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="70" width="70" />
 <img src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/framer-motion.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" height="70" width="70" />
+
 
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" height="70" width="70" />
@@ -46,12 +48,14 @@
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="70" width="70" />
 
+
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="70" width="70" />
 <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" height="70" width="70" />
 <!-- <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="70" width="70" /> -->
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="70" width="70" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/insomnia.svg" height="70" width="70" />
+
 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70" width="70" />
 <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/66582b8e-a291-4a1b-b89c-76628277a33b.svg" height="70" width="70" />
