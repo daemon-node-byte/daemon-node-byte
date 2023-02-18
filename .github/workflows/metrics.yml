@@ -29,6 +29,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_lines: yes
-          plugin_lines_sections: base, repositories, history
+          plugin_lines_sections: repositories, history
           plugin_lines_history_limit: 1
           
