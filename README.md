@@ -26,7 +26,7 @@
 
 <div align='center'>
 
-<h2>😸 Some things I have experience with...</h2>
+<h2>😸 A few things I'm experienced with...</h2>
 
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="70" width="70" />
