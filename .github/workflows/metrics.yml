@@ -12,7 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Base Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -20,4 +21,14 @@ jobs:
           base_indepth: true
           base_hireable: true
           repositories_affiliations: owner, collaborator, organization_member
+          
+      - name: Repositories and diff history
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.history.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_lines_sections: base, repositories, history
+          plugin_lines_history_limit: 1
           
