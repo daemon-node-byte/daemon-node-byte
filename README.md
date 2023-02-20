@@ -19,8 +19,9 @@
 
 ⚡ Fun fact, music is key to a productive lab
 
-🧰 Commonly used tools and technologies:
+<h4>🧰 Commonly used tools and technologies:</h4>
 
+<span>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="30" width="30" />
 <!-- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30" width="30" /> -->
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="30" width="30" />
@@ -49,7 +50,8 @@
 <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/66582b8e-a291-4a1b-b89c-76628277a33b.svg" height="30" width="30" />
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" height="30" width="30" />
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" height="30" width="30" />
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="30" width="30" />
+<!-- <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="30" width="30" /> -->
+</span>
 
 ---
 
