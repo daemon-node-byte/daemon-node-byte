@@ -21,6 +21,7 @@
 
 ---
 
+<div align='center'>
 <div>
 <img src='./metrics.plugin.habits.charts.svg'>
 <img src='./octocat.png' width='380'>
@@ -28,6 +29,7 @@
 
 <img src='./metrics.plugin.habits.facts.svg'>
 <img src='https://streak-stats.demolab.com?user=jmclain-banyan&theme=dark' width='380'>
+</div>
 
 ---
 
@@ -53,6 +55,10 @@
 <img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='440'>
 <img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
 </div>
+
+---
+
+<img src='./metrics.plugin.achievements.svg'>
 
 <!-- <div align='center'>
 <img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=5&custom_title=jmclain-banyan%20Spotify%20Data'>
