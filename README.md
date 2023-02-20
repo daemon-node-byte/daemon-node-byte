@@ -19,9 +19,9 @@
 
 ⚡ Fun fact, music is key to a productive lab
 
-<h4>🧰 Commonly used tools and technologies:</h4>
+🧰 Commonly used tools and technologies:
 
-<span>
+<div align='center'>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="30" width="30" />
 <!-- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30" width="30" /> -->
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="30" width="30" />
@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/framer-motion.svg" height="30" width="30" />
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" width="30" />
 <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" height="30" width="30" />
-<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="30" width="30" />
+<!-- <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="30" width="30" /> -->
 <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" height="30" width="30" />
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" width="30" />
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" height="30" width="30" />
@@ -42,7 +42,7 @@
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30" width="30" />
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="30" width="30" />
 <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" height="30" width="30" />
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="30" width="30" />
+<!-- <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="30" width="30" /> -->
 <img src="https://willstenzel.com/dark-mode-vercel-logo.png" height="30" width="30" />
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="30" width="30" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/insomnia.svg" height="30" width="30" />
@@ -51,13 +51,13 @@
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" height="30" width="30" />
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" height="30" width="30" />
 <!-- <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="30" width="30" /> -->
-</span>
+</div>
 
 ---
 
-<img align='left' src='./octocat.png' width='460'>
-<img src='./metrics.plugin.habits.charts.svg'>
-<img src='./metrics.plugin.habits.facts.svg'>
+<img align='left' src='./octocat.png' width='420'>
+<img src='./metrics.plugin.habits.charts.svg' width='450'>
+<img src='./metrics.plugin.habits.facts.svg' width='450'>
 
 ---
 
@@ -65,10 +65,10 @@
 
 > _I'm not a player, I just code a lot..._
 
-<img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='380'>
-<img align='right' src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=jmclain-banyan%20Spotify%20Data' width='570' height='850'>
+<img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='330'>
+<img align='right' src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=jmclain-banyan%20Spotify%20Data' width='530' height='800'>
 
-<img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=390&count=5'>
+<img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=330&count=5'>
 
 ---
 
