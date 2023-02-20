@@ -21,14 +21,14 @@
 
 ---
 
-<div align='center'>
+<div>
 <div>
 <img src='./metrics.plugin.habits.charts.svg'>
-<img src='./octocat.png' width='380'>
+<img src='./octocat.png' width='340'>
 </div>
 
 <img src='./metrics.plugin.habits.facts.svg'>
-<img src='https://streak-stats.demolab.com?user=jmclain-banyan&theme=dark' width='380'>
+<img src='https://streak-stats.demolab.com?user=jmclain-banyan&theme=dark' width='340'>
 </div>
 
 ---
