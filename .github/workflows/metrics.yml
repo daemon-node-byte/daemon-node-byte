@@ -13,7 +13,7 @@ jobs:
       - name: Base Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.base.svg
+          filename: assets/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories, metadata
           base_indepth: true
@@ -22,7 +22,7 @@ jobs:
       - name: Repositories and diff history
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.lines.history.svg
+          filename: assets/metrics.plugin.lines.history.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_lines: yes
@@ -32,7 +32,7 @@ jobs:
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.followup.indepth.svg
+          filename: assets/metrics.plugin.followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
@@ -41,7 +41,7 @@ jobs:
       - name: Detailed display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
+          filename: assets/metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -50,7 +50,7 @@ jobs:
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: assets/metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -63,7 +63,7 @@ jobs:
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.facts.svg
+          filename: assets/metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -74,7 +74,7 @@ jobs:
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: assets/metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -85,7 +85,7 @@ jobs:
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: assets/metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -95,9 +95,19 @@ jobs:
       - name: JavaScript or TypeScript snippet of the day
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.code.svg
+          filename: assets/metrics.plugin.code.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_code: yes
           plugin_code_languages: javascript, typescript
           plugin_code_load: 400
+
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
