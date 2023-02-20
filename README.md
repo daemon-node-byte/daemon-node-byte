@@ -55,16 +55,19 @@
 
 ---
 
-<img align='left' src='./octocat.png' width='400'>
-<img src='./metrics.plugin.habits.charts.svg'>
-<img src='./metrics.plugin.habits.facts.svg'>
+<div>
+<img align='left' src='./octocat.png' width='380'>
+<img src='./metrics.plugin.habits.charts.svg' width='440'>
+<img src='./metrics.plugin.habits.facts.svg' width='440'>
+</div>
 
 ## 🎧 Development Environment
 
 > _I'm not a player, I just code a lot..._
-
+<div>
 <img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='400'>
 <img align='right' src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=9'>
+</div>
 
 <div align='center'>
 <img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=5&custom_title=jmclain-banyan%20Spotify%20Data'>
