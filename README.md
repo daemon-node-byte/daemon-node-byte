@@ -48,7 +48,6 @@
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 </div>
 
-
 ## 🎧 Dev Environment
 
 > ### _I'm not a player, I just code a lot..._
@@ -59,6 +58,7 @@
 </div>
 
 ---
+![obi one](./assets/unfilimar_obi.jpg)
 
 <!-- <div align='center'>
 <img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=5&custom_title=jmclain-banyan%20Spotify%20Data'>
