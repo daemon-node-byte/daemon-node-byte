@@ -17,7 +17,7 @@
 
 📫 Contact me [info here](https://www.joshmclain.com/#contact)
 
-⚡ Fun fact, music is key to a productive lab
+⚡ Fun fact, music is my key to a productive lab
 
 ---
 
@@ -48,18 +48,18 @@
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 </div>
 
-## 🎧 Dev Environment
+<!-- ## 🎧 Dev Environment
 
 > ### _I'm not a player, I just code a lot..._
 
 <div align='center'>
 <img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='420'>
 <img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
-</div>
+</div> -->
 
 ---
-![obi one](./assets/unfilimar_obi.jpg)
+<!-- ![obi one](./assets/unfilimar_obi.jpg) -->
 
 <!-- <div align='center'>
-<img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=5&custom_title=jmclain-banyan%20Spotify%20Data'>
+<img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=jmclain-banyan%20Spotify%20Data'>
 </div> -->
