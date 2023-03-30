@@ -21,7 +21,7 @@
 
 ---
 
-<div>
+<div align='center'>
 <div>
 <img src='./assets/metrics.plugin.habits.charts.svg'>
 <img src='./assets/octocat.png' width='340'>
@@ -29,6 +29,9 @@
 
 <img src='./assets/metrics.plugin.habits.facts.svg'>
 <img src='https://streak-stats.demolab.com?user=jmclain-banyan&theme=dark' width='340'>
+
+<img src='./assets/metrics.plugin.wakatime.svg'>
+<img src='./assets/metrics.plugin.code.svg'>
 </div>
 
 ---
