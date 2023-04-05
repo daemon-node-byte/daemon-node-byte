@@ -11,7 +11,7 @@
 
 🌱 Always learning something new
 
-❤️ I'm passionate for DevOps
+❤️ I'm passionate for DevOps and the code
 
 🗨️ Ask me about collaborating
 
@@ -31,7 +31,7 @@
 <img src='https://streak-stats.demolab.com?user=jmclain-banyan&theme=dark' width='340'>
 
 <img src='./assets/metrics.plugin.wakatime.svg'>
-<img src='./assets/metrics.plugin.code.svg'>
+<!-- <img src='./assets/metrics.plugin.code.svg'> -->
 </div>
 
 ---
@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,vim,git,githubactions,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,vim,git,githubactions,vscode,java,spring,python&theme=dark" />
   </a>
 </p>
 
@@ -51,14 +51,14 @@
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 </div>
 
-<!-- ## 🎧 Dev Environment
+## 🎧 Dev Environment
 
-> ### _I'm not a player, I just code a lot..._
+> ### _I'm not a player, I just code a lot..._:cat:
 
 <div align='center'>
 <img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='420'>
 <img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
-</div> -->
+</div>
 
 ---
 <!-- ![obi one](./assets/unfilimar_obi.jpg) -->
