@@ -31,7 +31,7 @@
 <img src='https://streak-stats.demolab.com?user=jmclain-banyan&theme=dark' width='340'>
 
 <img src='./assets/metrics.plugin.wakatime.svg'>
-<!-- <img src='./assets/metrics.plugin.code.svg'> -->
+<img src='./assets/metrics.plugin.code.svg'>
 </div>
 
 ---
@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,vim,git,githubactions,vscode,java,spring,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,vim,git,githubactions,vscode&theme=dark" />
   </a>
 </p>
 
