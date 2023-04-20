@@ -110,7 +110,7 @@ jobs:
           base: ""
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime: yes
-          plugin_wakatime_days: 180
+          plugin_wakatime_days: 30
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os, os-graphs
           plugin_wakatime_languages_ignored: makdown
           plugin_wakatime_repositories_visibility: all
