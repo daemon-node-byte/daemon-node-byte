@@ -1,6 +1,6 @@
 <h1>🌎 Hello Universe! 👋 My name is Josh
-<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjmclain-banyan&countColor=%232ccce4&style=flat' height='22'>
-<img src='https://img.shields.io/github/followers/jmclain-banyan?label=Followers&style=social' height='22'>
+<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjmclain-origin&countColor=%232ccce4&style=flat' height='22'>
+<img src='https://img.shields.io/github/followers/jmclain-origin?label=Followers&style=social' height='22'>
 </h1>
 
 <img align='right' src='./assets/metrics.base.svg'>
@@ -31,7 +31,7 @@
 </div>
 
 <img src='./assets/metrics.plugin.habits.facts.svg'>
-<img src='https://streak-stats.demolab.com?user=jmclain-banyan&theme=dark' width='340'>
+<img src='https://streak-stats.demolab.com?user=jmclain-origin&theme=dark' width='340'>
 
 <img src='./assets/metrics.plugin.wakatime.svg'>
 <!-- <img src='./assets/metrics.plugin.code.svg'> -->
@@ -50,7 +50,7 @@
 ## 🏆 Trophies
 >
 <div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=jmclain-banyan&theme=darkhub&no-frame=true&margin-w=10' height='155'>
+<img src='https://github-profile-trophy.vercel.app/?username=jmclain-origin&theme=darkhub&no-frame=true&margin-w=10' height='155'>
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 </div>
 
@@ -67,5 +67,5 @@
 <!-- ![obi one](./assets/unfilimar_obi.jpg) -->
 
 <!-- <div align='center'>
-<img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=jmclain-banyan%20Spotify%20Data'>
+<img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=jmclain-origin%20Spotify%20Data'>
 </div> -->
