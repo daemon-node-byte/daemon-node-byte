@@ -5,15 +5,18 @@
 
 <img align='right' src='./assets/metrics.base.svg'>
 
-💼 Software Developer @[Banyan Labs](https://banyanlabs.io/)
+<!-- 💼 Software Developer @[Banyan Labs](https://banyanlabs.io/) -->
+<!-- 💼 Software Developer @[One Origin](https://oneorigin.us/) -->
+
+💼 Software Developer Guru
 
 🔭 Currently working on IoT
 
 🌱 Always learning something new
 
-❤️ I'm passionate for DevOps and the code
+❤️ I'm passionate for the code
 
-🗨️ Ask me about collaborating
+🗨️ Ask me about open source collaborating
 
 📫 Contact me [info here](https://www.joshmclain.com/#contact)
 
@@ -31,7 +34,7 @@
 <img src='https://streak-stats.demolab.com?user=jmclain-banyan&theme=dark' width='340'>
 
 <img src='./assets/metrics.plugin.wakatime.svg'>
-<img src='./assets/metrics.plugin.code.svg'>
+<!-- <img src='./assets/metrics.plugin.code.svg'> -->
 </div>
 
 ---
@@ -40,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,vim,git,githubactions,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,powershell,vim,git,githubactions,vscode,idea,md&theme=dark" />
   </a>
 </p>
 
@@ -51,14 +54,14 @@
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 </div>
 
-## 🎧 Dev Environment
+<!-- ## 🎧 Dev Environment
 
 > ### _I'm not a player, I just code a lot..._:cat:
 
 <div align='center'>
 <img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='420'>
 <img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
-</div>
+</div> -->
 
 ---
 <!-- ![obi one](./assets/unfilimar_obi.jpg) -->
