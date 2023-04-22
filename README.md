@@ -1,26 +1,28 @@
-<h1>🌎 Hello Universe! 👋 My name is Josh
-<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjmclain-origin&countColor=%232ccce4&style=flat' height='22'>
-<img src='https://img.shields.io/github/followers/jmclain-origin?label=Followers&style=social' height='22'>
+<h1>🌎 Hello Universe! 👋
+<img src='https://wakatime.com/badge/user/a61fe4dd-5464-48ee-825a-134d74f90884.svg?style=flat-square'>
+<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjmclain-origin&countColor=&style=flat-square' height='22'>
+<img src='https://img.shields.io/github/followers/jmclain-origin?label=Followers&style=flat-square' height='22'>
 </h1>
 
 <img align='right' src='./assets/metrics.base.svg'>
 
-<!-- 💼 Software Developer @[Banyan Labs](https://banyanlabs.io/) -->
-<!-- 💼 Software Developer @[One Origin](https://oneorigin.us/) -->
+💼 Software Developer II @ [One Origin](https://oneorigin.us/)
 
-💼 Software Developer Guru
+💼 Engineer Consultant @ [Banyan Labs](https://banyanlabs.io/)
+
+💼 DevOps Engineer & CTO @ [Dragon Cats Development](https://DragonCats.dev/)
 
 🔭 Currently working on IoT
 
 🌱 Always learning something new
 
-❤️ I'm passionate for the code
+❤️ I'm passionate about technology
+
+⚡ Fun fact, I do code too
 
 🗨️ Ask me about open source collaborating
 
 📫 Contact me [info here](https://www.joshmclain.com/#contact)
-
-⚡ Fun fact, music is my key to a productive lab
 
 ---
 
@@ -43,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,powershell,vim,git,githubactions,vscode,idea,md&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=md,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,powershell,vim,git,githubactions,vscode,idea,maven,gradle,java,spring&theme=dark" />
   </a>
 </p>
 
@@ -54,17 +56,22 @@
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 </div>
 
-<!-- ## 🎧 Dev Environment
+## 🎧 Dev Environment
 
-> ### _I'm not a player, I just code a lot..._:cat:
+> ### _I'm not a player 🐱 I just code a lot..._
 
 <div align='center'>
 <img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='420'>
 <img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
-</div> -->
+</div>
 
 ---
-<!-- ![obi one](./assets/unfilimar_obi.jpg) -->
+
+## Memes
+
+who doesn't love memes?
+
+![obi one](./assets/unfilimar_obi.jpg)
 
 <!-- <div align='center'>
 <img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=jmclain-origin%20Spotify%20Data'>
