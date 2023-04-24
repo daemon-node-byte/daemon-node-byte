@@ -54,9 +54,13 @@
 <!-- <img src='./assets/metrics.plugin.code.svg'> -->
 </div>
 
+---
+
 <details>
 <summary>
-Wakatime record since Feb, 2023.
+
+## 🕥 Wakatime record since Feb, 2023.
+
 </summary>
 
 <!--START_SECTION:waka-->
@@ -138,16 +142,22 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 </details>
 
+---
+
+<details>
+<summary>
+
 ## 🎧 Dev Environment
 
-> ### _I'm not a player 🐱 I just code a lot..._
+</summary>
 
+> ### _I'm not a player 🐱 I just code a lot..._
 <div align='center'>
 <img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='420'>
 <img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
 </div>
+</details>
 
----
 
 <!-- ## Memes
 
