@@ -26,21 +26,6 @@
 
 ---
 
-<div align='center'>
-<div>
-<img src='./assets/metrics.plugin.habits.charts.svg'>
-<img src='./assets/octocat.png' width='340'>
-</div>
-
-<img src='./assets/metrics.plugin.habits.facts.svg'>
-<img src='https://streak-stats.demolab.com?user=jmclain-origin&theme=dark' width='340'>
-
-<img src='./assets/metrics.plugin.wakatime.svg'>
-<!-- <img src='./assets/metrics.plugin.code.svg'> -->
-</div>
-
----
-
 ## 🧰 Toolbox
 
 <p align="center">
@@ -51,21 +36,28 @@
 
 ## 🏆 Trophies
 >
-<div align='center'>
+<div align=''>
 <img src='https://github-profile-trophy.vercel.app/?username=jmclain-origin&theme=darkhub&no-frame=true&margin-w=10' height='155'>
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
+<img src='./assets/metrics.plugin.habits.charts.svg'>
 </div>
 
-## 🎧 Dev Environment
-
-> ### _I'm not a player 🐱 I just code a lot..._
-
-<div align='center'>
-<img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='420'>
-<img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
+<div align=''>
+<img src='./assets/metrics.plugin.habits.facts.svg'>
+<img src='https://streak-stats.demolab.com?user=jmclain-origin&theme=dark' width='340'>
+<div>
 </div>
 
----
+
+<img src='./assets/metrics.plugin.wakatime.svg'>
+<img src='./assets/octocat.png' width='340'>
+<!-- <img src='./assets/metrics.plugin.code.svg'> -->
+</div>
+
+<details>
+<summary>
+Wakatime record since Feb, 2023.
+</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2027%20mins-blue)
@@ -141,9 +133,21 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
-
  Last Updated on 24/04/2023 12:14:36 UTC
 <!--END_SECTION:waka-->
+
+</details>
+
+## 🎧 Dev Environment
+
+> ### _I'm not a player 🐱 I just code a lot..._
+
+<div align='center'>
+<img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='420'>
+<img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
+</div>
+
+---
 
 <!-- ## Memes
 
