@@ -10,7 +10,7 @@
 
 💼 Engineer Consultant @ [Banyan Labs](https://banyanlabs.io/)
 
-💼 DevOps Engineer & CTO @ [Dragon Cats Development](https://DragonCats.dev/)
+💼 DevOps Engineer @ [Dragon Cats Dev](https://DragonCats.dev/ "visit")
 
 🔭 Currently working on IoT
 
@@ -18,7 +18,7 @@
 
 ❤️ I'm passionate about technology
 
-⚡ Fun fact, I do code too
+⚡ Fun fact, I do sleep too
 
 🗨️ Ask me about open source collaborating
 
@@ -30,16 +30,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,powershell,vim,git,githubactions,github,gitlab,vscode,idea,maven,gradle,java,spring&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=md,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,vue,nuxt,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,powershell,vim,git,githubactions,github,gitlab,vscode,idea,maven,gradle,java,spring&theme=dark" />
   </a>
 </p>
 
 ## 🏆 Trophies
->
-<div align=''>
-<img src='https://github-profile-trophy.vercel.app/?username=jmclain-origin&theme=darkhub&no-frame=true&margin-w=10' height='155'>
+
+<div align='center'>
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 <img src='./assets/metrics.plugin.habits.charts.svg'>
+<img src='https://github-profile-trophy.vercel.app/?username=jmclain-origin&theme=darkhub&no-frame=true&margin-w=10'>
 </div>
 
 <div align=''>
@@ -47,7 +47,6 @@
 <img src='https://streak-stats.demolab.com?user=jmclain-origin&theme=dark' width='340'>
 <div>
 </div>
-
 
 <img src='./assets/metrics.plugin.wakatime.svg'>
 <img src='./assets/octocat.png' width='340'>
@@ -59,28 +58,29 @@
 <details>
 <summary>
 
-## 🕥 Wakatime record since Feb, 2023.
+## 🕥 Wakatime record since Feb, 2023
 
 </summary>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 130.4 kB Used in GitHub's Storage 
- > 
+> 📦 130.4 kB Used in GitHub's Storage
+>
 > 🏆 542 Contributions in the Year 2023
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 25 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 19 Public Repositories
+>
+> 🔑 25 Private Repositories
+
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                1317 commits        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
@@ -88,7 +88,8 @@
 🌃 Evening                1609 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
 🌙 Night                  728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
 Monday                   1253 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
@@ -100,8 +101,7 @@ Saturday                 703 commits         ███░░░░░░░░�
 Sunday                   566 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Phoenix
@@ -123,7 +123,7 @@ Windows                  1 hr                █░░░░░░░░░░�
 Linux                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 JavaScript               26 repos            ████████████░░░░░░░░░░░░░   50.00 % 
@@ -133,10 +133,8 @@ Vue                      2 repos             █░░░░░░░░░░�
 Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
-
-
-
  Last Updated on 10/05/2023 18:38:15 UTC
+
 <!--END_SECTION:waka-->
 
 </details>
@@ -151,12 +149,12 @@ Java                     1 repo              ░░░░░░░░░░░�
 </summary>
 
 > ### _I'm not a player 🐱 I just code a lot..._
+
 <div align='center'>
 <img src='https://spotify-github-profile.vercel.app/api/view?uid=31knnovcfatt7mqmu6yaa5htulxi&cover_image=true&theme=default&show_offline=false&background_color=121212' width='420'>
 <img src='https://spotify-recently-played-readme.vercel.app/api?user=31knnovcfatt7mqmu6yaa5htulxi&width=400&count=10'>
 </div>
 </details>
-
 
 <!-- ## Memes
 
