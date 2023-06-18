@@ -63,13 +63,13 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 136.3 kB Used in GitHub's Storage 
+> 📦 136.1 kB Used in GitHub's Storage 
  > 
 > 🏆 616 Contributions in the Year 2023
  > 
@@ -134,7 +134,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2023 18:35:41 UTC
+ Last Updated on 18/06/2023 18:35:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
