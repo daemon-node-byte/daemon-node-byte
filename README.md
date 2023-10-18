@@ -12,9 +12,9 @@
 
 💼 DevOps Engineer @ [Dragon Cats Dev](https://DragonCats.dev/ "visit")
 
-🔭 Currently working on IoT
+🔭 Currently working on Tarot Site
 
-🌱 Always learning something new
+🌱 Currently learning Apple Devices 🤢
 
 ❤️ I'm passionate about technology
 
