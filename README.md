@@ -8,7 +8,7 @@
 
 💼 Software Developer II @ [One Origin](https://oneorigin.us/)
 
-💼 Engineer Consultant @ [Banyan Labs](https://banyanlabs.io/)
+<!-- 💼 Engineer Consultant @ [Banyan Labs](https://banyanlabs.io/) -->
 
 💼 DevOps Engineer @ [Dragon Cats Dev](https://DragonCats.dev/ "visit")
 
