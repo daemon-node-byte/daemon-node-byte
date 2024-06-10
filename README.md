@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,vue,nuxt,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,powershell,vim,git,githubactions,github,gitlab,vscode,idea,maven,gradle,java,spring&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=md,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,vue,nuxt,nodejs,express,mongodb,postgres,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,jenkins,linux,mint,ubuntu,redhat,kali,apple,bash,powershell,vim,git,githubactions,github,gitlab,vscode,idea,maven,gradle,java,spring&theme=dark" />
   </a>
 </p>
 
@@ -155,9 +155,13 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 <!-- ## Memes
 
-who doesn't love memes?
+who doesn't love memes? -->
 
-![obi one](./assets/unfilimar_obi.jpg) -->
+<div align='center'>
+
+![obi one](./assets/unfilimar_obi.jpg)
+
+</div>
 
 <!-- <div align='center'>
 <img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=jmclain-origin%20Spotify%20Data'>
