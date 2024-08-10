@@ -1,20 +1,20 @@
 <h1>🌎 Hello Universe! 👋
 <img src='https://wakatime.com/badge/user/a61fe4dd-5464-48ee-825a-134d74f90884.svg?style=flat-square'>
-<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjmclain-origin&countColor=&style=flat-square' height='22'>
-<img src='https://img.shields.io/github/followers/jmclain-origin?label=Followers&style=flat-square' height='22'>
+<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdaemon-node-byte&countColor=&style=flat-square' height='22'>
+<img src='https://img.shields.io/github/followers/daemon-node-byte?label=Followers&style=flat-square' height='22'>
 </h1>
 
 <img align='right' src='./assets/metrics.base.svg'>
 
-💼 Software Developer II @ [One Origin](https://oneorigin.us/)
+<!-- 💼 Software Developer II @ [One Origin](https://oneorigin.us/) -->
 
 <!-- 💼 Engineer Consultant @ [Banyan Labs](https://banyanlabs.io/) -->
 
-💼 DevOps Engineer @ [Dragon Cats Dev](https://DragonCats.dev/ "visit")
+💼 Head Engineer @ [Dragon Cats Dev](https://DragonCats.dev/)
 
-🔭 Currently working on Tarot Site
+🔭 Currently working on my site v2.0
 
-🌱 Currently learning Apple Devices 🤢
+🌱 Currently learning Sveltekit
 
 ❤️ I'm passionate about technology
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,vue,nuxt,nodejs,express,mongodb,postgres,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,jenkins,linux,mint,ubuntu,redhat,kali,apple,bash,powershell,vim,git,githubactions,github,gitlab,vscode,idea,maven,gradle,java,spring&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=md,html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,gatsby,remix,vue,nuxt,svelte,nodejs,express,mongodb,postgres,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,jenkins,linux,mint,ubuntu,redhat,kali,apple,bash,powershell,vim,git,githubactions,github,gitlab,vscode,idea,maven,gradle,java,spring&theme=dark" />
   </a>
 </p>
 
@@ -39,12 +39,12 @@
 <div align='center'>
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 <img src='./assets/metrics.plugin.habits.charts.svg'>
-<img src='https://github-profile-trophy.vercel.app/?username=jmclain-origin&theme=darkhub&no-frame=true&margin-w=10'>
+<img src='https://github-profile-trophy.vercel.app/?username=daemon-node-byte&theme=darkhub&no-frame=true&margin-w=10'>
 </div>
 
 <div align=''>
 <img src='./assets/metrics.plugin.habits.facts.svg'>
-<img src='https://streak-stats.demolab.com?user=jmclain-origin&theme=dark' width='340'>
+<img src='https://streak-stats.demolab.com?user=daemon-node-byte&theme=dark' width='340'>
 <div>
 </div>
 
@@ -159,5 +159,5 @@ who doesn't love memes? -->
 </div>
 
 <!-- <div align='center'>
-<img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=jmclain-origin%20Spotify%20Data'>
+<img src='https://www.data-card-for-spotify.com/api/card?user_id=31knnovcfatt7mqmu6yaa5htulxi&hide_playing=1&hide_recents=1&limit=10&custom_title=daemon-node-byte%20Spotify%20Data'>
 </div> -->

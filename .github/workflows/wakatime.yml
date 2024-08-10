@@ -21,3 +21,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "true"
           SHOW_LOC_CHART: "false"
           SHOW_LANGUAGE_PER_REPO: "true"
+          
