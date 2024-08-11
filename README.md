@@ -63,13 +63,13 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C829%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C829%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 155.0 kB Used in GitHub's Storage 
+> 📦 155.1 kB Used in GitHub's Storage 
  > 
 > 🏆 610 Contributions in the Year 2024
  > 
@@ -106,13 +106,15 @@ Sunday                   191 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     20 mins             ████████████████████████░   96.75 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +130,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2024 18:36:12 UTC
+ Last Updated on 11/08/2024 18:37:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
