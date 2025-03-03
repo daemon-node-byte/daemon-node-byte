@@ -63,13 +63,13 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 952.8 kB Used in GitHub's Storage 
+> 📦 952.6 kB Used in GitHub's Storage 
  > 
 > 🏆 41 Contributions in the Year 2025
  > 
@@ -106,14 +106,14 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Vue.js                   1 hr 27 mins        █████████████████████░░░░   82.30 % 
-TypeScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Vue.js                   1 hr 30 mins        █████████████████████░░░░   82.77 % 
+TypeScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,7 +129,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2025 18:38:40 UTC
+ Last Updated on 03/03/2025 18:38:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
