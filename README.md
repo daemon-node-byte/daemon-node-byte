@@ -63,11 +63,13 @@
 </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 952.9 kB Used in GitHub's Storage 
+> 📦 953.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -102,13 +104,13 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Markdown                 7 mins              █████████████████████████   100.00 % 
+Markdown                 22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +126,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2025 18:49:33 UTC
+ Last Updated on 16/05/2025 18:40:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
