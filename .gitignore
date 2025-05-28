@@ -1,2 +1,6 @@
 .vscode
 jmclain-banyan.code-workspace
+.history
+**/.DS_Store
+src/__pycache__/*
+
