@@ -116,7 +116,8 @@ Do you want to make your own? Check out [marcizhu/readme-chess](https://github.c
 <div align='center'>
 <img src='./assets/metrics.plugin.achievements.compact.svg'>
 <img src='./assets/metrics.plugin.habits.charts.svg'>
-<img src='https://github-profile-trophy.vercel.app/?username=daemon-node-byte&theme=darkhub&no-frame=true&margin-w=10'>
+  <img src="https://github-profile-trophy.vercel.app/?username=daemon-node-byte&theme=monokai">
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=daemon-node-byte&theme=darkhub&no-frame=true&margin-w=10'> -->
 </div>
 
 <div align=''>
