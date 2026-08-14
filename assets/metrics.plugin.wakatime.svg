@@ -61,18 +61,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Trustworthy AI Operations Agent</span>
-                                <div class="bar" style="width: 42.504%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 29.24%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">37%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">realtime-voice-chat-7</span>
-                                <div class="bar" style="width: 25.784%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="name">review-thinking-in-objects-select-or</span>
+                                <div class="bar" style="width: 25.624000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">realtime-voice-chat-7</span>
+                                <div class="bar" style="width: 17.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">realtime-voice-chat-8</span>
-                                <div class="bar" style="width: 11.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 7.856000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                         </div>
                     </section>
